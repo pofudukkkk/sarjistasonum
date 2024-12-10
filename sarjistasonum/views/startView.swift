@@ -30,7 +30,7 @@ class startView: UIViewController,GADBannerViewDelegate {
      
      func getsAd(){
          banner.delegate = self
-         banner.adUnitID = "ca-app-pub-3007934319345015/6841408421"
+         banner.adUnitID = "..."
          banner.rootViewController = self
          banner.load(GADRequest())
      }

@@ -43,7 +43,7 @@ class detailView: UIViewController, GADBannerViewDelegate{
     
     func getsAd(){
         banner.delegate = self
-        banner.adUnitID = "ca-app-pub-3007934319345015/6124618351"
+        banner.adUnitID = "..."
         banner.rootViewController = self
         banner.load(GADRequest())
     }
@@ -86,7 +86,7 @@ class detailView: UIViewController, GADBannerViewDelegate{
             let results = try context.fetch(fetchRequest)
             return results.count > 0
         } catch {
-            print("Error checking if station is already favorited: \(error)")
+            print("Hata \(error)")
             return false
         }
     }

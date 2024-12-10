@@ -26,7 +26,7 @@ class favoriListView: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     func getsAd(){
         banner.delegate = self
-        banner.adUnitID = "ca-app-pub-3007934319345015/7068639139"
+        banner.adUnitID = "..."
         banner.rootViewController = self
         banner.load(GADRequest())
     }

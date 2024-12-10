@@ -31,13 +31,13 @@ enum httpMethod:String{
 
 extension endPoint:networkCallerProtocol{
     var baseUrl: String {
-        return "https://api.sarj.dev/v1/search/"
+        return "...."
     }
     
     var genreUrl: String {
         switch self {
         case .nearest:
-            return "nearest?"
+            return "...."
         }
     }
     
@@ -55,7 +55,7 @@ extension endPoint:networkCallerProtocol{
     }
     
     var lastUrl: String{
-        return "&distance=20&size=200"
+        return "...."
     }
     
     func apiUrl() -> String {

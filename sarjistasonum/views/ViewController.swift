@@ -28,7 +28,6 @@ class ViewController: UIViewController, MKMapViewDelegate,CLLocationManagerDeleg
         super.viewDidLoad()
         mapView.delegate = self
         manager.delegate = self
-        manager.desiredAccuracy = kCLLocationAccuracyBest
         manager.startUpdatingLocation()
         vCm.delegate = self
         vCm.fetchData()
@@ -42,7 +41,7 @@ class ViewController: UIViewController, MKMapViewDelegate,CLLocationManagerDeleg
     func getsAd(){
 
         banner.delegate = self
-        banner.adUnitID = "ca-app-pub-3007934319345015/2039502295"
+        banner.adUnitID = "..."
         banner.rootViewController = self
         banner.load(GADRequest())
     }

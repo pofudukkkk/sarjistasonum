@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "4rn-w3-Ena"; */
+"4rn-w3-Ena.text" = "Name";
+
+/* Class = "UIButton"; configuration.title = "Favori Listem"; ObjectID = "7t3-qx-ZUi"; */
+"7t3-qx-ZUi.configuration.title" = "Favori Listem";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7t3-qx-ZUi"; */
+"7t3-qx-ZUi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Company:"; ObjectID = "8Yv-XX-WTl"; */
+"8Yv-XX-WTl.text" = "Company:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9IY-wD-5L8"; */
+"9IY-wD-5L8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "AG1-nt-MTU"; */
+"AG1-nt-MTU.text" = "Price";
+
+/* Class = "UILabel"; text = "Plug Count"; ObjectID = "AJJ-ud-VnB"; */
+"AJJ-ud-VnB.text" = "Plug Count";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "AgV-Fy-3LQ"; */
+"AgV-Fy-3LQ.text" = "REKLAM ";
+
+/* Class = "UIButton"; configuration.title = "BAŞLA"; ObjectID = "B50-35-OA8"; */
+"B50-35-OA8.configuration.title" = "BAŞLA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B50-35-OA8"; */
+"B50-35-OA8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Plug Count"; ObjectID = "Fwp-wq-1T7"; */
+"Fwp-wq-1T7.text" = "Plug Count";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gf1-Md-h1t"; */
+"Gf1-Md-h1t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "I5l-C8-V0z"; */
+"I5l-C8-V0z.text" = "REKLAM ";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "P4G-5v-5L5"; */
+"P4G-5v-5L5.text" = "Name:";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "V8p-wr-IsI"; */
+"V8p-wr-IsI.text" = "Distance";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "Vfc-d5-lpt"; */
+"Vfc-d5-lpt.text" = "Company";
+
+/* Class = "UILabel"; text = "PLug"; ObjectID = "Vs9-J4-k5q"; */
+"Vs9-J4-k5q.text" = "PLug";
+
+/* Class = "UIButton"; configuration.title = "Tüm İstasyonlar"; ObjectID = "Xqq-IJ-uKC"; */
+"Xqq-IJ-uKC.configuration.title" = "Tüm İstasyonlar";
+
+/* Class = "UIButton"; normalTitle = "Tüm İstasyonlar"; ObjectID = "Xqq-IJ-uKC"; */
+"Xqq-IJ-uKC.normalTitle" = "Tüm İstasyonlar";
+
+/* Class = "UILabel"; text = "Company:"; ObjectID = "Zuo-lT-ARt"; */
+"Zuo-lT-ARt.text" = "Company:";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "c3Q-Us-Qi4"; */
+"c3Q-Us-Qi4.text" = "Price";
+
+/* Class = "UITextView"; text = "E-Şarjım ile size en yakın şarj istasyonlarının bilgilerine ulaşabilir, kendi favori listenizi oluşturarak, yol tarifi alabilirsiniz. Başlamadan önce konum erişimine izin vermeniz gerekmektedir..."; ObjectID = "dqq-NQ-wDQ"; */
+"dqq-NQ-wDQ.text" = "E-Şarjım ile size en yakın şarj istasyonlarının bilgilerine ulaşabilir, kendi favori listenizi oluşturarak, yol tarifi alabilirsiniz. Başlamadan önce konum erişimine izin vermeniz gerekmektedir...";
+
+/* Class = "UILabel"; text = "Plug"; ObjectID = "f7t-99-J4r"; */
+"f7t-99-J4r.text" = "Plug";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "fV2-9L-wpW"; */
+"fV2-9L-wpW.text" = "REKLAM ";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "fuT-bf-Xut"; */
+"fuT-bf-Xut.text" = "Name:";
+
+/* Class = "UILabel"; text = "KW"; ObjectID = "hPZ-6v-rbJ"; */
+"hPZ-6v-rbJ.text" = "KW";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ico-E5-8Zr"; */
+"ico-E5-8Zr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "jqE-ON-anI"; */
+"jqE-ON-anI.text" = "REKLAM ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m5x-iq-Nj9"; */
+"m5x-iq-Nj9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "KW"; ObjectID = "o2Y-XH-3Lj"; */
+"o2Y-XH-3Lj.text" = "KW";
+
+/* Class = "UILabel"; text = "Plug"; ObjectID = "p9e-X8-ttd"; */
+"p9e-X8-ttd.text" = "Plug";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "pmB-Tv-UkJ"; */
+"pmB-Tv-UkJ.text" = "Distance";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "rLI-mL-TUi"; */
+"rLI-mL-TUi.text" = "REKLAM ";
+
+/* Class = "UILabel"; text = "REKLAM "; ObjectID = "rLg-i9-lCj"; */
+"rLg-i9-lCj.text" = "REKLAM ";
+
+/* Class = "UILabel"; text = "power"; ObjectID = "uV1-Kb-BEJ"; */
+"uV1-Kb-BEJ.text" = "power";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "yyh-73-9mT"; */
+"yyh-73-9mT.text" = "Price";
+
+/* Class = "UIBarButtonItem"; title = "Bck"; ObjectID = "z4x-Iz-LaL"; */
+"z4x-Iz-LaL.title" = "Bck";

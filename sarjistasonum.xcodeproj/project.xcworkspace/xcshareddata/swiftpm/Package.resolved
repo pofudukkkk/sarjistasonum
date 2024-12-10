@@ -1,0 +1,33 @@
+{
+  "originHash" : "3962a296fc415bb4bce5a9fbe63f725e47d33200d908f4b39d707682115fab19",
+  "pins" : [
+    {
+      "identity" : "panmodal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/slackhq/PanModal.git",
+      "state" : {
+        "revision" : "b012aecb6b67a8e46369227f893c12544846613f",
+        "version" : "1.2.7"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-mobile-ads",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+      "state" : {
+        "revision" : "7778cc1ab037c10dbbe026959e51e616bd961be9",
+        "version" : "11.13.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-user-messaging-platform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      "state" : {
+        "revision" : "708a282840c2171ee63bd93b87afa49fe507d70e",
+        "version" : "2.7.0"
+      }
+    }
+  ],
+  "version" : 3
+}

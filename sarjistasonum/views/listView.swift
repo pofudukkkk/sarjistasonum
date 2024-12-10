@@ -37,7 +37,7 @@ class listView: UIViewController, GADBannerViewDelegate {
   
     func getsAd(){
         banner.delegate = self
-        banner.adUnitID = "ca-app-pub-3007934319345015/4474093945"
+        banner.adUnitID = "..."
         banner.rootViewController = self
         banner.load(GADRequest())
     }
